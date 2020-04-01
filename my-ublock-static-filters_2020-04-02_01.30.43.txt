@@ -1,0 +1,5 @@
+! 4/1/2020 https://anime-master.com
+||anime-master.com/upload/slotgame66v2.gif$image
+anime-master.com##center:nth-of-type(2) > p
+anime-master.com##.row > .center_lnwphp
+anime-master.com##.col_delb
